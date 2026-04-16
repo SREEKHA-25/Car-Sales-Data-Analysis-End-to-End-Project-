@@ -32,30 +32,34 @@ The objective of this project is to analyze car sales data to help businesses un
 - Helps buyers understand fair market value  
 - Supports decision-making using data insights  
 
-## 🧠 Analysis Approach
-
-### SQL
-- Used queries to calculate average selling price by brand
-- Identified top sellers
-- Compared MMR vs Selling Price
-
-### Python
-- Created visualizations (bar charts, pie charts)
-- Analyzed relationships between mileage and price
-
-
-
 ## 🚀 Project Structure
 - data → cleaned dataset
 - sql → queries used
 - python → analysis notebook
 - powerbi → dashboard file
 
+  ## 🧠 Technical Work
+
+### SQL Analysis
+- Average selling price by brand
+- Top sellers identification
+- Price comparison (MMR vs Selling Price)
+
+### Python Analysis
+- Data visualization using matplotlib/seaborn
+- Trend analysis for price vs mileage
+  
 ## 💡 What I Learned
 - Cleaning real-world messy data
 - Writing SQL queries for business insights
 - Creating dashboards for decision-making
 
-- - BMW has the highest average selling price 
+## 🎯 Business Impact
+   This analysis helps:
+- Car sellers set better pricing strategies
+- Buyers understand fair market value
+- Businesses identify high-performing brands and sellers
+- Automatic cars are priced ~15% higher than manual cars
+- BMW has the highest average selling price 30%
 - Most cars sold are Automatic (64%)
 - Cars with mileage < 50,000 have higher price
