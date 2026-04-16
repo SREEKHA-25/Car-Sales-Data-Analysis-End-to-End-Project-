@@ -24,7 +24,7 @@ This project analyzes car sales data to understand pricing trends, top brands, a
 - Compared MMR vs Selling Price
 - Analyzed impact of mileage on price
 
-## 📈 Dashboard
+
 
 
 
