@@ -25,7 +25,8 @@ This project analyzes car sales data to understand pricing trends, top brands, a
 - Analyzed impact of mileage on price
 
 ## 📈 Dashboard
-(Add Power BI screenshot here)
+
+
 
 ## 🚀 Project Structure
 - data → cleaned dataset
