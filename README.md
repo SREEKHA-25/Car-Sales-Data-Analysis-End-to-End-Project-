@@ -1,4 +1,4 @@
-# Car-Sales-Data-Analysis-End-to-End-Project-
+#car-sales-analysis
 
 # 🚗 Car Sales Data Analysis
 
@@ -24,7 +24,24 @@ This project analyzes car sales data to understand pricing trends, top brands, a
 - Compared MMR vs Selling Price
 - Analyzed impact of mileage on price
 
+- ## 📌 Business Problem
+The objective of this project is to analyze car sales data to help businesses understand pricing trends, seller performance, and factors affecting vehicle prices.
 
+## 📈 Business Value
+- Helps sellers price cars competitively  
+- Helps buyers understand fair market value  
+- Supports decision-making using data insights  
+
+## 🧠 Analysis Approach
+
+### SQL
+- Used queries to calculate average selling price by brand
+- Identified top sellers
+- Compared MMR vs Selling Price
+
+### Python
+- Created visualizations (bar charts, pie charts)
+- Analyzed relationships between mileage and price
 
 
 
@@ -38,3 +55,7 @@ This project analyzes car sales data to understand pricing trends, top brands, a
 - Cleaning real-world messy data
 - Writing SQL queries for business insights
 - Creating dashboards for decision-making
+
+- - BMW has the highest average selling price 
+- Most cars sold are Automatic (64%)
+- Cars with mileage < 50,000 have higher price
